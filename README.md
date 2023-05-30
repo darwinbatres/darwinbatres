@@ -11,5 +11,5 @@
 ## Some tools I have created (or currently working on)
 
 - [PegaUtils](https://pegautils.vercel.app/)
-> Useful to visualize the structure of your applications and more, check it out!
+> Useful to visualize the structure of your applications and more, <strong><i>check it out!</i></strong>
 
